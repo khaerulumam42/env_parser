@@ -9,7 +9,7 @@ setuptools.setup(
      version=VERSION,
      scripts=['env_parser.py'],
      author="Khaerul Umam",
-     author_email="khaery=ulumam42@gmail.com",
+     author_email="khaerulumam42@gmail.com",
      description="utility package for parsing your secret env to example-format without show your credentials",
      long_description=long_description,
      long_description_content_type="text/markdown",
