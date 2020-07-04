@@ -1,6 +1,6 @@
-# Environment Parsing (env_parsing)
+# Environment Parser (env_parser)
 
-Rasanya melelahkan menghapus value variabel environment setelah selesai development. Mengapus satu persatu menghabiskan waktu beberapa menit, bisa untuk mengerjakan hal lain. itu mnegapa saya membuat package ini supaya lebih mudah untuk membuat *example environment* dari environment sesungguhnya.
+Rasanya melelahkan menghapus value variabel environment setelah selesai development. Mengapus satu persatu menghabiskan waktu beberapa menit, bisa untuk mengerjakan hal lain. itu mengapa saya membuat package ini supaya lebih mudah untuk membuat *example environment* dari environment sesungguhnya.
 
 ## Getting Started
 
