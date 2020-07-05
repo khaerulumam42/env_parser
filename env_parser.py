@@ -2,7 +2,7 @@ import argparse
 from utils.parser import dot_env
 
 arguments = argparse.ArgumentParser()
-arguments.add_argument('--output_name', action='store', 
+arguments.add_argument('--output_name', action='store', \
         help='name for output your file, default is env.example')
 
 args = arguments.parse_args()

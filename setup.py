@@ -5,7 +5,7 @@ from utils.constant import VERSION
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='env_parser',  
+     name='env_parser',
      version=VERSION,
      scripts=['env_parser.py'],
      author="Khaerul Umam",
@@ -21,3 +21,4 @@ setuptools.setup(
          "Operating System :: OS Independent",
      ],
  )
+ 
